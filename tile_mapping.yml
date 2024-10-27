@@ -1,0 +1,1583 @@
+"/turf/open/floor/shiva/north": # no north???
+  name: CMFloorSteelShiva
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/yellowcorners/west":
+  name: CMFloorSteelShivaYellowCorners3
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/green/west":
+  name: CMFloorSteelShivaGreen3
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/wred/southeast":
+  name: CMFloorSteelShivaWhiteRed4
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/greencorners/north":
+  name: CMFloorSteelShivaGreenCorners1
+  flags: 0
+  variant: 0
+
+"/turf/open/auto_turf/snow/layer1":
+  name: RCMPlanetSnow1
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/greencorners":
+  name: CMFloorSteelShivaGreenCorners0
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/dark2":
+  name: CMFloorSteelPlanetBlack
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/prison":
+  name: CMFloorSteelPrison
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/red/northwest":
+  name: CMFloorSteelShivaRed7
+  flags: 0
+  variant: 0
+
+"/turf/open/shuttle/can_surgery/black": # Tiles/shuttle/floor7.png or Walls/Structures/shuttle.rsi/floor7.png
+  name: CMFloorSteel
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/purple/north":
+  name: CMFloorSteelShivaPurple1
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/floor3":
+  name: CMFloorSteelShivaPlate
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/interior/plastic": # not ported, so really should be RMCPlanetPlasticFloor0 whenever you grab that
+  name: CMPlanetPlasticFloor1
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/snow_mat/east": # Tiles/shiva/snow_mat.png
+  name: CMFloorSteelAlpha3
+  flags: 0
+  variant: 0
+
+"/turf/open/gm/river": # this is gonna be some sort of floor with shallow water entity on top
+  # name: CMFloorShallowWaterEntity
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/purple/east":
+  name: CMFloorSteelShivaPurple2
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/plating/icefloor/warnplate/southwest": # Tiles/floors/warnplate.png
+  name: CMFloorSteelAlpha6
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/green/northwest":
+  name: CMFloorSteelShivaGreen7
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/red/north":
+  name: CMFloorSteelShivaRed1
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/platebot": # Tiles/floors/platebot.png
+  name: RCMPlanetIce1
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/multi_tiles/west":
+  name: CMFloorSteelShivaMultiTile3
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/yellowcorners/north":
+  name: CMFloorSteelShivaYellowCorners1
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/red/southwest":
+  name: CMFloorSteelShivaRed5
+  flags: 0
+  variant: 0
+
+"/turf/closed/wall/shiva/prefabricated/reinforced/hull": # wall
+  # name: RCMWallShivaInvincibleFab <- not found
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/darkbrown2/east":
+  name: CMFloorSteelPlanetDarkBrown2
+  flags: 0
+  variant: 0
+
+"/turf/open/auto_turf/snow/layer2":
+  name: RCMPlanetSnow2
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/blue/east":
+  name: CMFloorSteelShivaBlue2
+  flags: 0
+  variant: 0
+
+"/turf/open/auto_turf/snow/layer0": # only snow_1-4 in Tiles/planet/snow2 ???
+  name: RCMPlanetSnow1
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/green/north":
+  name: CMFloorSteelShivaGreen1
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/greencorners/east":
+  name: CMFloorSteelShivaGreenCorners2
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/corsat/squares":
+  name: CMPlanetCorsatSquare
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/green/east":
+  name: CMFloorSteelShivaGreen2
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/snow_mat/west": # Tiles/shiva/snow_mat.png
+  name: RCMPlanetIce1
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/green/southeast":
+  name: CMFloorSteelShivaGreen4
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/purplefull/east": # not ported fully, should be RMCFloorSteelShivaPurpleFull2 from Tiles/shiva/purplefull_2.png
+  name: CMFloorSteelShivaPurpleFull3
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/yellow":
+  name: CMFloorSteelShivaYellow0
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/yellow/north":
+  name: CMFloorSteelShivaYellow1
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/chapel/east": # rotations aren't gonna work with the automapper for this one cause its an entity with one state
+  # name: CarpetChapel
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/plating/icefloor/warnplate/west": # Tiles/floors/warnplate.png
+  name: RCMPlanetIce1
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/darkbrowncorners2":
+  name: CMFloorSteelPlanetDarkBrownCorners0
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/plating/icefloor/warnplate/southeast": # Tiles/floors/warnplate.png
+  name: RCMPlanetIce1
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/yellow/northeast":
+  name: CMFloorSteelShivaYellow6
+  flags: 0
+  variant: 0
+
+"/turf/closed/wall/shiva/ice": # wall
+  # name: RCMWallShivaIce <- not found
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/multi_tiles/southeast":
+  name: CMFloorSteelShivaMultiTile4
+  flags: 0
+  variant: 0
+
+"/turf/closed/shuttle/elevator/research": # wall
+  # name: RMCWallElevator
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/closed/wall/shiva/prefabricated": # wall
+  # name: RCMWallShivaFab
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/closed/shuttle/ert": # haha, this is going to be by hand
+  name: RCMPlanetIce1
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/yellowcorners":
+  name: CMFloorSteelShivaYellowCorners0
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/radiator_tile": # Tiles/shiva/radiator_tile.png
+  name: RCMPlanetIce1
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/multi_tiles/east":
+  name: CMFloorSteelShivaMultiTile2
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/wredcorners/north":
+  name: CMFloorSteelShivaWhiteRedCorners1
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/wred/northwest":
+  name: CMFloorSteelShivaWhiteRed7
+  flags: 0
+  variant: 0
+
+"/turf/closed/wall/r_wall": # biodome wall somewhere in Walls/corsat.dmi apparently
+  # name: RCMPlanetIce1
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/closed/shuttle/elevator/button/arrivals": # wall
+  # name: RMCWallElevator
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/wredcorners/east":
+  name: CMFloorSteelShivaWhiteRedCorners2
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/yellow/west":
+  name: CMFloorSteelShivaYellow3
+  flags: 0
+  variant: 0
+
+"/turf/open/shuttle/dropship/can_surgery/medium_grey_single_wide_left_to_right":
+  name: CMShuttleTileRasputin14
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/red/east":
+  name: CMFloorSteelShivaRed2
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/interior/plastic/alt":
+  name: CMPlanetPlasticFloor1
+  flags: 0
+  variant: 0
+
+"/turf/closed/wall/shiva/prefabricated/blue": # wall
+  # name: RCMWallShivaReinforcedFabBlue
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/plating/icefloor/warnplate/northeast": # Tiles/floors/warnplate.png
+  name: RCMPlanetIce1
+  flags: 0
+  variant: 0
+
+"/turf/closed/shuttle/elevator/button/research": # wall
+  # name: RMCWallElevator
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/wred/southwest":
+  name: CMFloorSteelShivaWhiteRed5
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/blue/west":
+  name: CMFloorSteelShivaBlue3
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/yellow/southwest":
+  name: CMFloorSteelShivaYellow5
+  flags: 0
+  variant: 0
+
+"/turf/closed/shuttle/elevator": # wall
+  # name: RMCWallElevator
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/darkbrown2":
+  # name: CMFloorSteelPlanetDarkBrown
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/auto_turf/ice/layer0":
+  name: RCMPlanetIce0
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/red":
+  # name: CMFloorSteelShivaRed
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/darkgreen2/northeast":
+  name: CMFloorSteelPlanetDarkGreen6
+  flags: 0
+  variant: 0
+
+"/turf/open/gm/river/no_overlay": # no idea how this is different from the other river one
+  # name: CMFloorShallowWaterEntity
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/darkbrown2/northwest":
+  name: CMFloorSteelPlanetDarkBrown7
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/plating/icefloor/warnplate/north": # Tiles/floors/warnplate.png
+  name: RCMPlanetIce1
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/wood":
+  name: CMPlanetWood
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/wredcorners/west":
+  name: CMFloorSteelShivaWhiteRedCorners3
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/plating/warnplate": # Tiles/floors/warnplate.png
+  name: RCMPlanetIce1
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/multi_tiles/north":
+  name: CMFloorSteelShivaMultiTile1
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/bcircuit":
+  name: FloorBlueCircuit
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/purplefull": # not ported fully, should be RMCFloorSteelShivaPurpleFull0 from Tiles/shiva/purplefull_0
+  name: CMFloorSteelShivaPurpleFull3
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/snow_mat": # Tiles/shiva/snow_mat.png
+  name: RCMPlanetIce1
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/radiator_tile2": # Tiles/shiva/radiator_tile2.png
+  name: RCMPlanetIce1
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/chapel/west": # entity, can't rotate with automapper
+  # name: CarpetChapel
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/closed/shuttle/elevator/arrivals": # wall
+  # name: RMCWallElevator
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/plating/warnplate/northwest": # Tiles/floors/warnplate.png
+  name: RCMPlanetIce1
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/wredcorners":
+  name: CMFloorSteelShivaWhiteRedCorners0
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/darkbrown2/north":
+  name: CMFloorSteelPlanetDarkBrown1
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/darkbrown2/southwest":
+  name: CMFloorSteelPlanetDarkBrown5
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/green":
+  name: CMFloorSteelShivaGreen0
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/green/southwest":
+  name: CMFloorSteelShivaGreen5
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/plating/plating_catwalk/shiva": # entity
+  # name: CMCatwalkShiva <- Not found
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/yellow/southeast":
+  name: CMFloorSteelShivaYellow4
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/red/northeast":
+  name: CMFloorSteelShivaRed6
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/red/west":
+  name: CMFloorSteelShivaRed3
+  flags: 0
+  variant: 0
+
+"/turf/closed/wall/shiva/prefabricated/white": # wall
+  # name: RCMWallShivaReinforcedFabWhite
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/greencorners/west":
+  name: CMFloorSteelShivaGreenCorners3
+  flags: 0
+  variant: 0
+
+"/turf/closed/wall/shiva/prefabricated/orange":
+  # name: RCMWallShivaReinforcedFabOrange
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/shuttle/elevator": # wall
+  # name: RMCWallElevator
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/multi_tiles":
+  name: CMFloorSteelShivaMultiTile
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/red/southeast":
+  name: CMFloorSteelShivaRed4
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/chapel/north": # entity, no rotation with automapper
+  # name: CarpetChapel
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/delivery":
+  name: CMFloorSteelPlanetDelivery
+  flags: 0
+  variant: 0
+
+"/turf/closed/wall/shiva/prefabricated/pink":
+  # name: RCMWallShivaReinforcedFabPink <- not found
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/yellow/east":
+  name: CMFloorSteelShivaYellow2
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/plating/icefloor/warnplate/northwest": # Tiles/floors/warnplate.png
+  name: RCMPlanetIce1
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/strata/floor2": # Tiles/shuttle/floor2.png or Structures/Walls/shuttle.rsi/floor2.png
+  name: RCMPlanetIce1
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/green/northeast":
+  name: CMFloorSteelShivaGreen6
+  flags: 0
+  variant: 0
+
+"/turf/open/auto_turf/snow/layer3":
+  name: RCMPlanetSnow3
+  flags: 0
+  variant: 0
+
+"/turf/open/auto_turf/snow/layer4":
+  name: RCMPlanetSnow4
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/darkgreen2/northwest":
+  name: CMFloorSteelPlanetDarkGreen7
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/wred/northeast":
+  name: CMFloorSteelShivaWhiteRed6
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/plating/icefloor/warnplate": # Tiles/floors/warnplate.png
+  name: RCMPlanetIce1
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/plating/icefloor":
+  name: CMFloorPlating
+  flags: 0
+  variant: 0
+
+"/turf/open/ice/noweed": # I think this ice wall is for frozen xeno gameplay we don't have yet or something
+  name: RCMPlanetIce1
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/purple":
+  name: CMFloorSteelShivaPurple0
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/wred":
+  name: CMFloorSteelShivaWhiteRed0
+  flags: 0
+  variant: 0
+
+"/turf/closed/wall/shiva/prefabricated/reinforced":
+  # name: RCMWallShivaReinforcedFab
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/bluefull": # not fully ported, should be RCMFloorSteelShivaBlueFull0 from Tiles/shiva/bluefull_0
+  name: CMFloorSteelShivaBlueFull3
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/chapel": # entity, no rotation with automapper
+  # name: CarpetChapel
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/auto_turf/ice/layer1": # the actual real RCMPlanetIce1
+  name: RCMPlanetIce1
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/darkgreen2/southeast":
+  name: CMFloorSteelPlanetDarkGreen4
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/darkbrown2/west":
+  name: CMFloorSteelPlanetDarkBrown3
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/wred/east":
+  name: CMFloorSteelShivaWhiteRed2
+  flags: 0
+  variant: 0
+
+"/turf/open/asphalt/cement": # no idea
+  name: RCMPlanetIce1
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/purplefull/west":
+  name: CMFloorSteelShivaPurpleFull3
+  flags: 0
+  variant: 0
+
+"/turf/closed/shuttle/elevator/gears":
+  # name: RMCWallElevator
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/purple/west":
+  name: CMFloorSteelShivaPurple3
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva":
+  name: CMFloorSteelShiva
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/yellow/northwest":
+  name: CMFloorSteelShivaYellow7
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/purplefull/north": # not fully ported yadadada
+  name: CMFloorSteelShivaPurpleFull3
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/redfull": # not fully ported jskldjasl
+  name: CMFloorSteelShivaRedFull3
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/bluecorners/west":
+  name: CMFloorSteelShivaBlueCorners3
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/greenfull": # more fulls please
+  name: CMFloorSteelShivaGreenFull3
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/wredfull": # ditto
+  name: CMFloorSteelShivaWhiteRedFull3
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/carpet": # entity
+  # name: CMCarpetPrison
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/bluefull/west":
+  name: CMFloorSteelShivaBlueFull3
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/yellowcorners/east":
+  name: CMFloorSteelShivaYellowCorners2
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/redfull/west":
+  name: CMFloorSteelShivaRedFull3
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/greenfull/west":
+  name: CMFloorSteelShivaGreenFull3
+  flags: 0
+  variant: 0
+
+"/turf/open/shuttle/dropship/can_surgery/medium_grey_single_wide_up_to_down":
+  name: CMShuttleTileRasputin15
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/darkbrown2/northeast":
+  # name: CmFloorSteelPlanetDarkBrown6
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/yellowfull":
+  name: CMFloorSteelShivaYellowFull3
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/wred/north":
+  name: CMFloorSteelShivaWhiteRed1
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/prison/kitchen":
+  name: CMFloorSteelPrisonKitchen
+  flags: 0
+  variant: 0
+
+"/turf/closed/wall/shiva/prefabricated/red":
+  # name: RCMWallShivaReinforcedFabRed
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/auto_turf/ice/layer2":
+  name: RCMPlanetIce2
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/darkbrown2/southeast":
+  name: CMFloorSteelPlanetDarkBrown4
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/bluecorners":
+  name: CMFloorSteelShivaWhiteRed1
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/yellowfull/west":
+  name: CMFloorSteelShivaYellowFull3
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/strata/floor3/east": # in Tiles/shuttle/floor3.png or Structures/Walls/shuttle.rsi/floor3.png
+  name: RCMPlanetIce1
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/plating/icefloor/warnplate/east": # Tiles/floors/warnplate.png
+  name: RCMPlanetIce1
+  flags: 0
+  variant: 0
+
+"/turf/open/shuttle/elevator/grating": # entity
+  # name: CMCatwalk
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/plating":
+  name: CMFloorPlating
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/snow_mat/north": # Tiles/shiva/snow_mat.png
+  name: RCMPlanetIce1
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/shiva/wred/west":
+  name: CMFloorSteelShivaWhiteRed3
+  flags: 0
+  variant: 0
+
+
+###########
+# KUTJEVO #
+###########
+
+"/turf/open/auto_turf/sand/layer0":
+  name: RMCPlanetSand0
+  flags: 0
+  variant: 0
+
+"/turf/open/auto_turf/sand/layer1":
+  name: RMCPlanetSand1
+  flags: 0
+  variant: 0
+
+"/turf/open/auto_turf/sand/layer2":
+  name: RMCPlanetSand1Rock
+  flags: 0
+  variant: 0
+  
+"/turf/closed/shuttle":
+  name: RMCPlanetSand0
+  flags: 0
+  variant: 0
+
+"/turf/closed/wall/kutjevo/colony":
+  name: RMCPlanetSand0
+  flags: 0
+  variant: 0
+
+"/turf/closed/wall/kutjevo/colony/reinforced":
+  name: RMCPlanetSand0
+  flags: 0
+  variant: 0
+
+"/turf/closed/wall/kutjevo/colony/reinforced/hull":
+  name: RMCPlanetSand0
+  flags: 0
+  variant: 0
+
+"/turf/closed/wall/kutjevo/rock":
+  name: RMCPlanetSand0
+  flags: 0
+  variant: 0
+
+"/turf/closed/wall/kutjevo/rock/border":
+  name: RMCPlanetSand0
+  flags: 0
+  variant: 0
+
+"/turf/closed/wall/resin/thick":
+  name: RMCPlanetSand0
+  flags: 0
+  variant: 0
+
+"/turf/open/asphalt/cement_sunbleached":
+  name: RMCFloorCementSunBleached5
+  flags: 0
+  variant: 0
+
+"/turf/open/desert/desert_shore/desert_shore1":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/desert/desert_shore/desert_shore1/east":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/desert/desert_shore/desert_shore1/north":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/desert/desert_shore/desert_shore1/west":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/desert/desert_shore/shore_corner2":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/desert/desert_shore/shore_corner2/east":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/desert/desert_shore/shore_corner2/north":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/desert/desert_shore/shore_corner2/west":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/desert/desert_shore/shore_edge1":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/desert/desert_shore/shore_edge1/east":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/desert/desert_shore/shore_edge1/north":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/desert/desert_shore/shore_edge1/west":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/almayer/research/containment/floor1":
+  name: RMCFloorResearchContainmentFloor2West
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/almayer/research/containment/floor2":
+  name: RMCFloorResearchContainmentFloor2North
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/coagulation/icon0_0":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/coagulation/icon0_5":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/coagulation/icon0_8":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/coagulation/icon2_0":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/coagulation/icon7_0":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/coagulation/icon7_8_2":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/coagulation/icon8_0":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/coagulation/icon8_3":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/coagulation/icon8_6":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/coagulation/icon8_8":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/filtrationside/north":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/greengrid":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo":
+  name: RMCFloorKutjevoFloor1
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/colors":
+  name: RMCFloorKutjevoFloor1
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/colors/cyan":
+  name: RMCFloorKutjevoCyan1
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/colors/cyan/edge":
+  name: RMCFloorKutjevoCyan3_0
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/colors/cyan/edge/east":
+  name: RMCFloorKutjevoCyan3_2
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/colors/cyan/edge/north":
+  name: RMCFloorKutjevoCyan3_1
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/colors/cyan/edge/west":
+  name: RMCFloorKutjevoCyan3_3
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/colors/cyan/inner_corner":
+  name: RMCFloorKutjevoCyan4_0
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/colors/cyan/inner_corner/east":
+  name: RMCFloorKutjevoCyan4_2
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/colors/cyan/inner_corner/north":
+  name: RMCFloorKutjevoCyan4_1
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/colors/cyan/inner_corner/west":
+  name: RMCFloorKutjevoCyan4_3
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/colors/cyan/tile":
+  name: RMCFloorKutjevoCyan2
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/colors/green":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/colors/green/tile":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/colors/orange":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/colors/orange/edge":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/colors/orange/edge/east":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/colors/orange/edge/north":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/colors/orange/edge/northeast":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/colors/orange/edge/northwest":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/colors/orange/edge/southeast":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/colors/orange/edge/southwest":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/colors/orange/edge/west":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/colors/orange/inner_corner":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/colors/orange/inner_corner/east":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/colors/orange/inner_corner/north":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/colors/orange/inner_corner/west":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/colors/orange/tile":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/colors/purple":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/colors/purple/edge":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/colors/purple/edge/east":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/colors/purple/edge/north":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/colors/purple/edge/northeast":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/colors/purple/edge/west":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/colors/purple/inner_corner":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/colors/purple/inner_corner/east":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/colors/purple/inner_corner/north":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/colors/purple/inner_corner/west":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/colors/red":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/colors/red/tile":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/grey":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/grey/plate":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/multi_tiles":
+  name: RMCFloorKutjevoMulti0
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/multi_tiles/east":
+  name: RMCFloorKutjevoMulti2
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/multi_tiles/north":
+  name: RMCFloorKutjevoMulti1
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/multi_tiles/southeast":
+  name: RMCFloorKutjevoMulti4
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/multi_tiles/southwest":
+  name: RMCFloorKutjevoMulti5
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/multi_tiles/west":
+  name: RMCFloorKutjevoMulti3
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/plate":
+  name: RMCFloorKutjevoFloor3
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/tan":
+  name: RMCFloorKutjevoTan1
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/tan/alt_edge":
+  name: RMCFloorKutjevoTan3_0
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/tan/alt_edge/east":
+  name: RMCFloorKutjevoTan3_2
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/tan/alt_edge/north":
+  name: RMCFloorKutjevoTan3_1
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/tan/alt_edge/northeast":
+  name: RMCFloorKutjevoTan3_6
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/tan/alt_edge/northwest":
+  name: RMCFloorKutjevoTan3_7
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/tan/alt_edge/southeast":
+  name: RMCFloorKutjevoTan3_4
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/tan/alt_edge/southwest":
+  name: RMCFloorKutjevoTan3_5
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/tan/alt_edge/west":
+  name: RMCFloorKutjevoTan3_3
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/tan/alt_inner_edge":
+  name: RMCFloorKutjevoTan3_0
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/tan/alt_inner_edge/east":
+  name: RMCFloorKutjevoTan3_2
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/tan/alt_inner_edge/north":
+  name: RMCFloorKutjevoTan3_1
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/tan/alt_inner_edge/west":
+  name: RMCFloorKutjevoTan3_3
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/tan/grey_edge":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/tan/grey_edge/east":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/tan/grey_edge/north":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/tan/grey_edge/northeast":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/tan/grey_edge/northwest":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/tan/grey_edge/southeast":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/tan/grey_edge/southwest":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/tan/grey_edge/west":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/tan/grey_inner_edge":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/tan/grey_inner_edge/east":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/tan/grey_inner_edge/north":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/tan/grey_inner_edge/west":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/tan/multi_tiles":
+  name: RMCFloorKutjevoTanMulti0
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/tan/multi_tiles/east":
+  name: RMCFloorKutjevoTanMulti2
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/tan/multi_tiles/north":
+  name: RMCFloorKutjevoTanMulti1
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/tan/multi_tiles/southeast":
+  name: RMCFloorKutjevoTanMulti4
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/tan/multi_tiles/west":
+  name: RMCFloorKutjevoTanMulti3
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/tiles":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/mech_bay_recharge_floor":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/plating/kutjevo":
+  name: RMCFloorPlatingKutjevo
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/plating/kutjevo/panelscorched":
+  name: RMCFloorPlatingKutjevoScorched
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/plating/kutjevo/platingdmg1":
+  name: RMCFloorPlatingKutjevoDamaged1
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/plating/kutjevo/platingdmg3":
+  name: RMCFloorPlatingKutjevoDamaged3
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/strata/multi_tiles/west":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/gm/dirt2":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/gm/dirtgrassborder2":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/gm/dirtgrassborder2/east":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/gm/dirtgrassborder2/north":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/gm/dirtgrassborder2/wall2":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/gm/dirtgrassborder2/wall3":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/gm/dirtgrassborder2/west":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/gm/grass/grass1/weedable":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/gm/river/darkred":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/gm/river/desert/deep":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/gm/river/desert/deep/covered":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/gm/river/desert/deep/toxic":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/gm/river/desert/shallow":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/gm/river/desert/shallow_corner":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/gm/river/desert/shallow_corner/east":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/gm/river/desert/shallow_corner/north":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/gm/river/desert/shallow_corner/west":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/gm/river/desert/shallow_edge":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/gm/river/desert/shallow_edge/east":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/gm/river/desert/shallow_edge/north":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/gm/river/desert/shallow_edge/northeast":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/gm/river/desert/shallow_edge/northwest":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/gm/river/desert/shallow_edge/southeast":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/gm/river/desert/shallow_edge/southwest":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/gm/river/desert/shallow_edge/west":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/gm/river/red":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/gm/river/red_pool":
+  name: Space
+  flags: 0
+  variant: 0
+
+"/turf/open/mars_cave/mars_cave_10":
+  name: CMPlanetMarsCave9
+  flags: 0
+  variant: 0
+
+"/turf/open/mars_cave/mars_cave_11":
+  name: CMPlanetMarsCave10
+  flags: 0
+  variant: 0
+
+"/turf/open/mars_cave/mars_cave_23":
+  name: CMPlanetMarsCave22
+  flags: 0
+  variant: 0
+
+"/turf/open/mars_cave/mars_cave_5":
+  name: CMPlanetMarsCave4
+  flags: 0
+  variant: 0
+
+"/turf/open/mars_cave/mars_cave_7":
+  name: CMPlanetMarsCave6
+  flags: 0
+  variant: 0
