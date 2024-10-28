@@ -119,7 +119,8 @@ class Map:
                     chunk_data += item.encode(tilemap_reversed[item.name])
                 encoded_chunk_data = base64.b64encode(bytes(chunk_data)).decode("ascii")
 
-                map.data["entities"][0]["entities"][1]["components"][2]["chunks"][
+                # print(map.data["entities"][0]["entities"][0]["components"][8])
+                map.data["entities"][0]["entities"][0]["components"][8]["chunks"][
                     f"{chunk_x},{-chunk_y-1}"
                 ] = {
                     "ind": f"{chunk_x},{-chunk_y-1}",

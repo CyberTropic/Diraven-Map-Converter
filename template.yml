@@ -19,31 +19,39 @@ entities:
     - type: MovedGrids
     - type: Broadphase
     - type: OccluderTree
-  - uid: 2
-    components:
-    - type: MetaData
-      name: grid
-    - type: Transform
-      pos: 0,0
-      parent: 1
     - type: MapGrid
       chunks: {}
-    - type: Broadphase
-    - type: Physics
-      bodyStatus: InAir
-      angularDamping: 0.05
-      linearDamping: 0.05
-      fixedRotation: False
-      bodyType: Dynamic
-    - type: Fixtures
-      fixtures: {}
-    - type: OccluderTree
+    - type: BecomesStation
+      id: Template
     - type: SpreaderGrid
-    - type: Shuttle
     - type: GridPathfinding
     - type: Gravity
+      inherent: True
+      enabled: True
     - type: DecalGrid
       chunkCollection:
         version: 2
         nodes: []
+    - type: MapAtmosphere
+      space: False
+      mixture:
+        volume: 2500
+        immutable: True
+        temperature: 290
+        moles:
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+    - type: LoadedMap
+    - type: RadiationGridResistance
+    - type: StationInfiniteBatteryTarget
 ...
