@@ -6,6 +6,6 @@ Tile conversions modified for Kutjevo tiles.
 
 ### Instructions
 ```
-pip install -r /path/to/requirements.txt
+pip install -r requirements.txt
 py .
 ```
