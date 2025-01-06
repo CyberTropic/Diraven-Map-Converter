@@ -1,4 +1,693 @@
 ###########
+# CHINOOK #
+###########
+
+"/turf/closed/shuttle/elevator":
+  name: CMFloorPlating
+  flags: 0
+  variant: 0
+
+"/turf/closed/shuttle/elevator/gears":
+  name: CMFloorPlating
+  flags: 0
+  variant: 0
+  
+"/turf/closed/wall/almayer":
+  name: CMFloorPlating
+  flags: 0
+  variant: 0
+
+"/turf/closed/wall/almayer/outer":
+  name: CMFloorPlating
+  flags: 0
+  variant: 0
+  
+"/turf/closed/wall/almayer/reinforced":
+  name: CMFloorPlating
+  flags: 0
+  variant: 0
+  
+"/turf/closed/wall/almayer/white":
+  name: CMFloorPlating
+  flags: 0
+  variant: 0
+  
+"/turf/closed/wall/almayer/white/hull":
+  name: CMFloorPlating
+  flags: 0
+  variant: 0
+  
+"/turf/closed/wall/almayer/white/reinforced":
+  name: CMFloorPlating
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer":
+  name: CMFloorSteel
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/ai_floors":
+  name: RMCFloorAI
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/blue":
+  name: CMFloorSteelDelta0
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/almayer/blue/east":
+  name: CMFloorSteelDelta2
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/blue/north":
+  name: CMFloorSteelDelta1
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/blue/northeast":
+  name: CMFloorSteelDelta6
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/blue/northwest":
+  name: CMFloorSteelDelta7
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/blue/southeast":
+  name: CMFloorSteelDelta4
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/blue/southwest":
+  name: CMFloorSteelDelta5
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/blue/west":
+  name: CMFloorSteelDelta3
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/bluecorner":
+  name: CMFloorSteelDeltaCorner0
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/bluecorner/east":
+  name: CMFloorSteelDeltaCorner2
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/bluecorner/north":
+  name: CMFloorSteelDeltaCorner1
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/bluecorner/west":
+  name: CMFloorSteelDeltaCorner3
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/cargo":
+  name: CMFloorCargo
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/cargo_arrow":
+  name: CMFloorCargoArrowDown
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/cargo_arrow/north":
+  name: CMFloorCargoArrowUp
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/dark_sterile":
+  name: CMFloorSteelSterileDark
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/emerald":
+  name: CMFloorSteelCharlie0
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/emerald/east":
+  name: CMFloorSteelCharlie2
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/emerald/north":
+  name: CMFloorSteelCharlie1
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/emerald/northeast":
+  name: CMFloorSteelCharlie6
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/emerald/northwest":
+  name: CMFloorSteelCharlie7
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/emerald/southeast":
+  name: CMFloorSteelCharlie4
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/emerald/southwest":
+  name: CMFloorSteelCharlie5
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/emerald/west":
+  name: CMFloorSteelCharlie3
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/emeraldcorner/west":
+  name: CMFloorSteelCharlieCorner3
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/emeraldfull":
+  name: CMFloorSteelCharlieFull
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/green":
+  name: CMFloorSteelGreen0
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/green/east":
+  name: CMFloorSteelGreen2
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/green/north":
+  name: CMFloorSteelGreen1
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/green/northeast":
+  name: CMFloorSteelGreen6
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/green/northwest":
+  name: CMFloorSteelGreen7
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/green/southeast":
+  name: CMFloorSteelGreen4
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/green/southwest":
+  name: CMFloorSteelGreen5
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/green/west":
+  name: CMFloorSteelGreen3
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/greencorner/east":
+  name: CMFloorSteelGreenCorner2
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/orange":
+  name: CMFloorSteelBravo0
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/orange/east":
+  name: CMFloorSteelBravo2
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/orange/north":
+  name: CMFloorSteelBravo1
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/orange/northeast":
+  name: CMFloorSteelBravo6
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/orange/northwest":
+  name: CMFloorSteelBravo7
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/orange/southeast":
+  name: CMFloorSteelBravo4
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/orange/southwest":
+  name: CMFloorSteelBravo5
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/orange/west":
+  name: CMFloorSteelBravo3
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/orangecorner":
+  name: CMFloorSteelBravoCorner0
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/orangecorner/east":
+  name: CMFloorSteelBravoCorner2
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/orangecorner/north":
+  name: CMFloorSteelBravoCorner1
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/orangecorner/west":
+  name: CMFloorSteelBravoCorner3
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/plate":
+  name: CMFloorPlate
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/plating/northeast":
+  name: RMCFloorPlatingNorthEast
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/almayer/plating_striped":
+  name: RMCFloorPlatingStriped
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/plating_striped/east":
+  name: RMCFloorPlatingStripedEast
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/plating_striped/west":
+  name: RMCFloorPlatingStripedWest
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/pod_landing_floor":
+  name: CMFloorTest0
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/almayer/red/east":
+  name: CMFloorSteelAlpha2
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/red/north":
+  name: CMFloorSteelAlpha1
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/red/northeast":
+  name: CMFloorSteelAlpha6
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/red":
+  name: CMFloorSteelAlpha0
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/red/northwest":
+  name: CMFloorSteelAlpha7
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/red/southeast":
+  name: CMFloorSteelAlpha4
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/red/southwest":
+  name: CMFloorSteelAlpha5
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/red/west":
+  name: CMFloorSteelAlpha3
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/redcorner":
+  name: CMFloorSteelAlphaCorner0
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/redcorner/east":
+  name: CMFloorSteelAlphaCorner2
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/redcorner/north":
+  name: CMFloorSteelAlphaCorner1
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/redcorner/west":
+  name: CMFloorSteelAlphaCorner3
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/redfull":
+  name: CMFloorSteelAlphaFull
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/silver":
+  name: CMFloorSteelSilver0
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/silver/east":
+  name: CMFloorSteelSilver2
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/silver/north":
+  name: CMFloorSteelSilver1
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/silver/northeast":
+  name: CMFloorSteelSilver6
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/silver/northwest":
+  name: CMFloorSteelSilver7
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/silver/southeast":
+  name: CMFloorSteelSilver4
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/silver/southwest":
+  name: CMFloorSteelSilver5
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/silver/west":
+  name: CMFloorSteelSilver3
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/silvercorner":
+  name: CMFloorSteelSilverCorner0
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/silvercorner/east":
+  name: CMFloorSteelSilverCorner2
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/silvercorner/north":
+  name: CMFloorSteelSilverCorner1
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/silvercorner/west":
+  name: CMFloorSteelSilverCorner3
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/silverfull":
+  name: CMFloorSteelSilverFull
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/almayer/sterile_green":
+  name: CMFloorSteelSterileGreen
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/sterile_green_corner":
+  name: CMFloorSteelSterileGreenCorner0
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/sterile_green_corner/east":
+  name: CMFloorSteelSterileGreenCorner2
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/sterile_green_corner/north":
+  name: CMFloorSteelSterileGreenCorner1
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/sterile_green_corner/west":
+  name: CMFloorSteelSterileGreenCorner3
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/sterile_green_side":
+  name: CMFloorSteelSterileGreenSide0
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/sterile_green_side/east":
+  name: CMFloorSteelSterileGreenSide2
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/sterile_green_side/north":
+  name: CMFloorSteelSterileGreenSide1
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/sterile_green_side/northeast":
+  name: CMFloorSteelSterileGreenSide6
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/sterile_green_side/northwest":
+  name: CMFloorSteelSterileGreenSide7
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/sterile_green_side/southeast":
+  name: CMFloorSteelSterileGreenSide4
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/sterile_green_side/southwest":
+  name: CMFloorSteelSterileGreenSide5
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/sterile_green_side/west":
+  name: CMFloorSteelSterileGreenSide3
+  flags: 0
+  variant: 0
+  
+
+"/turf/open/floor/almayer/tcomms":
+  name: RMCFloorTComms
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/test_floor4":
+  name: CMFloorTest0
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/test_floor5":
+  name: CMFloorTest1
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/uscm/directional":
+  name: CMFloorSteel
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/uscm/directional/east":
+  name: CMFloorSteel
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/uscm/directional/logo_c/west":
+  name: CMFloorSteel
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/uscm/directional/north":
+  name: CMFloorSteel
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/uscm/directional/northeast":
+  name: CMFloorSteel
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/uscm/directional/northwest":
+  name: CMFloorSteel
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/uscm/directional/southeast":
+  name: CMFloorSteel
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/uscm/directional/southwest":
+  name: CMFloorSteel
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer/uscm/directional/west":
+  name: CMFloorSteel
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer_hull":
+  name: CMFloorOuterHull
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer_hull/outerhull_dir":
+  name: CMFloorOuterHullSouth
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer_hull/outerhull_dir/east":
+  name: CMFloorOuterHullEast
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer_hull/outerhull_dir/north":
+  name: CMFloorOuterHullNorth
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer_hull/outerhull_dir/northeast":
+  name: CMFloorOuterHullNorthEast
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer_hull/outerhull_dir/northwest":
+  name: CMFloorOuterHullNorthWest
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer_hull/outerhull_dir/southeast":
+  name: CMFloorOuterHullSouthEast
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer_hull/outerhull_dir/southwest":
+  name: CMFloorOuterHullSouthWest
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/almayer_hull/outerhull_dir/west":
+  name: CMFloorOuterHullWest
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/corsat/plate":
+  name: CMPlanetCorsatPlate
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/corsat/squares":
+  name: CMPlanetCorsatSquare
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/kutjevo/colors/blue/edge/east":
+  name: RMCFloorKutjevoBlue3_2
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/kutjevo/colors/blue/edge/west":
+  name: RMCFloorKutjevoBlue3_3
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/kutjevo/tan/plate":
+  name: RMCFloorKutjevoTan1
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/plating":
+  name: CMFloorPlating
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/plating/almayer":
+  name: RMCFloorPlatingNorthEast
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/plating/plating_catwalk":
+  name: CMFloorPlating
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/prison/kitchen":
+  name: CMFloorSteelPrisonKitchen
+  flags: 0
+  variant: 0
+
+"/turf/open/floor/solarpanel":
+  name: CMFloorSteelPlanetSolarPanel
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/strata/faux_wood":
+  name: CMFloorWood
+  flags: 0
+  variant: 0
+  
+"/turf/open/floor/wood":
+  name: CMFloorWood
+  flags: 0
+  variant: 0
+  
+"/turf/open/gm/river/pool":
+  name: CMFloorPlating
+  flags: 0
+  variant: 0
+  
+# /turf/open/space
+# /turf/open/space/basic
+
+
+###########
 # KUTJEVO #
 ###########
 
@@ -784,6 +1473,7 @@
 
 "/turf/open/floor/carpet": # entity
   # name: CMCarpetPrison
-  name: RMCFloorPlatingKutjevo
+  name: CMFloorPlating
   flags: 0
   variant: 0
+

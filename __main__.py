@@ -2,7 +2,7 @@ import pathlib
 
 import ss13, ss14
 
-MAP_NAME = "Kutjevo"
+MAP_NAME = "Chinook"
 CWD = pathlib.Path(__file__).parent
 SOURCE_PATH = CWD / f"{MAP_NAME}.dmm"  # TODO: load file name from arguments.
 TILE_MAPPING_PATH = CWD / "tile_mapping.yml"
